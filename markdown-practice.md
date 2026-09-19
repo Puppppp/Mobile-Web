@@ -45,8 +45,3 @@ A code block:
 git add .
 git commit -m "My first commit"
 git push
-
-Give it a name such as:
-
-```text
-markdown-practice
