@@ -34,12 +34,6 @@ This is my Markdown practice file.
 
 Inline code looks like this: `git status`
 
-A code block:
-
-```bash
-git add .
-git commit -m "My first commit"
-git push
 
 This demonstrates a **good range of Markdown features** rather than just showing one heading and a paragraph.
 
@@ -64,6 +58,13 @@ Go to GitHub and click:
 or use:
 
 :contentReference[oaicite:8]{index=8}
+
+A code block:
+
+```bash
+git add .
+git commit -m "My first commit"
+git push
 
 Give it a name such as:
 
