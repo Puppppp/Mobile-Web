@@ -39,26 +39,6 @@ This demonstrates a **good range of Markdown features** rather than just showing
 
 GitHub officially supports all of the basic syntax used above. :contentReference[oaicite:7]{index=7}
 
----
-
-# Part H — Create a NEW GitHub repository
-
-The professor specifically says:
-
-> `신규 레파지토리 생성 필요`
-
-Meaning:
-
-**You must create a new repository.**
-
-Go to GitHub and click:
-
-**+ → New repository**
-
-or use:
-
-:contentReference[oaicite:8]{index=8}
-
 A code block:
 
 ```bash
